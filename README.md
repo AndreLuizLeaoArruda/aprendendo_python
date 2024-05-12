@@ -17,16 +17,14 @@
 </p>
 
 <p align="center">
-  <a href="#Descrição"> Descrição </a> •
+  <a href="#descricao"> Descrição </a> •
   <a href="#funcionalidade">Funcionalidades</a> •
   <a href="#como-testar">Como testar</a> •
   <a href="#créditos">Créditos</a> •
 </p>
 
-<h2>Motivação</h2>
-<p>Após conversar com vários educadores físicos e testemunhar suas dificuldades na cobrança de serviços aos alunos, percebi a falta de um sistema de pagamentos automatizado. Muitos enfrentam o desconforto de ter que cobrar diretamente, o que gera constrangimento.</p>
-
-Assim, surge o Tá Pago!, uma ideia baseada nessas necessidades. Hoje, vejo uma oportunidade real de implementação de forma simples e eficaz. Este projeto é voltado para educadores físicos, como personal trainers, professores de artes marciais, dança e instrutores de qualquer natureza. Oferece uma solução de cobrança amigável, permitindo que eles concentrem 100% de sua energia em seus negócios: melhorar a saúde de seus alunos.
+<h2>Descrição</h2><align=justify>
+<p> Este programa em Python gera cardápios personalizados com base nas informações fornecidas pelo usuário, como idade, peso, altura, gênero, preferências alimentares e nível de atividade física. Com ele, você pode ter acesso a sugestões de refeições saudáveis e adequadas às suas necessidades.
 
 <h2>Funcionalidade</h2>
 O sistema de gestão de cobranças para educadores físicos possui diversas funcionalidades que visam facilitar e agilizar o processo de comunicação e cobrança com os alunos. Ele identifica automaticamente os alunos cujas mensalidades estão próximas do vencimento, que estão com mensalidades atrasadas ou cujo vencimento é na data atual.
