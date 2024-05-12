@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./img.jpg" width="400"></a>
+  <img src="./img.jpg" width="400">
   <br>
   Cardápio Virtual
   <br>
@@ -43,4 +43,10 @@ Desenvolvido por <a target="_blank" href="https://github.com/AndreLuizLeaoArruda
 
 <h2> Exemplo</h2>
 Abaixo um exemplo das telas que aparecem no decorrer do processo.
-
+<h1 align="center">
+  <img src="./tela1.png"><br>
+  <img src="./tela2.png"><br>
+  <img src="./tela3.png"><br>
+  <img src="./tela4.png"><br>
+  <img src="./tela5.png"><br>
+  <img src="./tela6.png"><br>
