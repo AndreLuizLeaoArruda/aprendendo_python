@@ -7,24 +7,24 @@
   <br>
 </h1>
 
-<h4 align="center"> Cardápio Virtual </h4>
-
 <p align="center">
   <a target="_blank" href="https://gemini.google.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/120px-Google_Gemini_logo.svg.png"
          alt="Gemini">
   </a>
-</p>
 
-<p align="center">
-  <a href="#descricao"> Descrição </a> •
-  <a href="#funcionalidade">Funcionalidades</a> •
-  <a href="#como-testar">Como testar</a> •
-  <a href="#créditos">Créditos</a> •
+  <a target="_blank" href="https://www.python.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/260px-Python_logo_and_wordmark.svg.png"
+         alt="Python">
+  </a>
+
+
+  
 </p>
 
 <h2>Descrição</h2><align=justify>
-<p> Este programa em Python gera cardápios personalizados com base nas informações fornecidas pelo usuário, como idade, peso, altura, gênero, preferências alimentares e nível de atividade física. Com ele, você pode ter acesso a sugestões de refeições saudáveis e adequadas às suas necessidades.
+<p> Este programa em Python gera cardápios personalizados com base nas informações fornecidas pelo usuário, como idade, peso, altura, gênero, preferências alimentares e nível de atividade física. 
+<br> Com ele, você pode ter acesso a sugestões de refeições saudáveis e adequadas às suas necessidades.
 
 <h2>Funcionalidade</h2>
 O sistema de gestão de cobranças para educadores físicos possui diversas funcionalidades que visam facilitar e agilizar o processo de comunicação e cobrança com os alunos. Ele identifica automaticamente os alunos cujas mensalidades estão próximas do vencimento, que estão com mensalidades atrasadas ou cujo vencimento é na data atual.
